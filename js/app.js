@@ -207,6 +207,7 @@ var mapReach = {
 
 
 var places = [
+    ["Bogota", 3]
     ["San Francisco",1],
     ["Jakarta, Indonesia",1],
     ["Bangkok thailand",1],
